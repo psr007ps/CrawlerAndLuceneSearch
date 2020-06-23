@@ -1,0 +1,10 @@
+response/Response.class
+client/TwitterClient.class
+data/DataDump.class
+utils/WebClient.class
+config/WebRequestConfig.class
+perceptor/Perceptor.class
+config/TwitterPaginationConfig.class
+config/TwitterDataConfig.class
+utils/Config.class
+utils/Parser.class

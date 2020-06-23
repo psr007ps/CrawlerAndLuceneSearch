@@ -1,0 +1,12 @@
+{
+  "apiURL" : "https://api.twitter.com/1.1/tweets/search/30day/staging.json",
+  "upperBoundonHttpRequests" : 3,
+  "keyword" : "adidas",
+  "maxResults": 100,
+  "location" : "ND",
+  "bearerToken" : "AAAAAAAAAAAAAAAAAAAAACI%2BBAEAAAAAbpZyZNfIpKwd3UrFpPTP15KK39g%3Dut3PGAzXQT63PIuBzgdkTBvZSGVxkDzKwpTCae8PrNFJ8JMXXc",
+  "absolutePathForFilteredData" : "/Users/sattu/eclipse-workspace/crawler/prod_filtered_data.json",
+  "absolutePathForRawData" : "/Users/sattu/eclipse-workspace/crawler/prod_raw_data.json", 
+  "longitude" :  "-74.099200", 
+  "latitude" :  "40.739974"
+}
